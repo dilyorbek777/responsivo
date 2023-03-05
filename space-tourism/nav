@@ -1,0 +1,14 @@
+<nav>
+    <div class="logo">
+        <img src="./image/logo2.svg">
+
+    </div>
+    
+        <ol  class="links" id="links">
+            <li><a href="./index.html">HOME</a></li>
+            <li><a class="active" href="./destination.html">DESTINATION</a></li>
+            <li><a href="./.html">CREW</a></li>
+            <li><a href="./.html">TECHNOLOGY</a></li>
+        </ol>
+    
+</nav>
